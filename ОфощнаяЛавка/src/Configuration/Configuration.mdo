@@ -41,6 +41,7 @@
   <commonCommands>CommonCommand.Привет</commonCommands>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
   <documents>Document.ПосуплениеТоваров</documents>
   <documents>Document.ПродажаТоваров</documents>
   <sequences>Sequence.СкладскиеДокументы</sequences>

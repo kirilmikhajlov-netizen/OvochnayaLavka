@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.Контрагенты</content>
   <content>Catalog.Номенклатура</content>
+  <content>Catalog.Склады</content>
 </mdclass:Subsystem>
