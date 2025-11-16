@@ -45,6 +45,7 @@
   <catalogs>Catalog.КонтактныеЛица</catalogs>
   <documents>Document.ПосуплениеТоваров</documents>
   <documents>Document.ПродажаТоваров</documents>
+  <documents>Document.ПриемНаРаботу</documents>
   <sequences>Sequence.СкладскиеДокументы</sequences>
   <documentJournals>DocumentJournal.ДокументыСклада</documentJournals>
   <reports>Report.ОстаткиТоваров</reports>
