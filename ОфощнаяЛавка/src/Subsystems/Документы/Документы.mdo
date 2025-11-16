@@ -12,4 +12,5 @@
   <content>CommonCommand.Привет</content>
   <content>Sequence.СкладскиеДокументы</content>
   <content>DocumentJournal.ДокументыСклада</content>
+  <content>Document.ПриемНаРаботу</content>
 </mdclass:Subsystem>
